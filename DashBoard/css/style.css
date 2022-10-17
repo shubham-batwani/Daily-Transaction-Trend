@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(to left, rgb(50, 115, 6) 1%, rgb(216, 211, 65))
+    right;
+}
+.graph {
+  align-self: center;
+  width: 90%;
+  z-index: 2;
+  opacity: 95%;
+}
+.card {
+  border-radius: 5px 15px 5px 15px;
+}
